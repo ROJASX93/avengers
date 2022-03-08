@@ -7,3 +7,6 @@ Toda la información aquí utilizada sale de Wikipedia y Marvel.com
 
 ## Roger
 Roger en la rama-misiones
+
+## Royer Rojas
+Roger Rojas en la rama misiones
